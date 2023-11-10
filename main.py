@@ -43,4 +43,4 @@ async def fire(ctx, num_channels: int = 250):
     await ctx.send(f'{num_channels} channels created!')
 
 # Run the bot with your token
-bot.run('your_bot_token_here')
+bot.run('MTE3MjU2NDk1NDcyNjAyNzMxNA.GzddOz.EQkgkTf2VRn65bbZJXDTvZ6mTAhIpMg22a0deA')
